@@ -18,7 +18,7 @@
       <nb-list-item icon>
         <nb-left>
           <nb-button :style="{ backgroundColor: '#4CDA64' }">
-            <nb-icon name="arrow-dropdown" />
+            <nb-icon name="home" />
           </nb-button>
         </nb-left>
         <nb-body>
@@ -34,6 +34,7 @@
           >
             <item label="TATA" value="key0" />
             <item label="AIRTEL" value="key1" />
+            <item label="AIRTELLLL" value="key2" />
           </nb-picker>
         </nb-right>
       </nb-list-item>
